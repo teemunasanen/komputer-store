@@ -1,6 +1,7 @@
 # komputer-store
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![web](https://img.shields.io/static/v1?logo=icloud&message=Online&label=web&color=success)](https://komputer-store.netlify.app/)
 
 Komputer Store App is an assignment on JavaScript Fundamentals module of Noroff&#39;s Java Fullstack bootcamp
 
@@ -34,7 +35,7 @@ $ git clone https://github.com/komputer-store
 ```
 
 ## Usage
-Live version: [here](url)
+Live version: [komputer-store](https://komputer-store.netlify.app/)
 
 ### Bank
 * The bank shows a “Bank” balance in your currency.   
