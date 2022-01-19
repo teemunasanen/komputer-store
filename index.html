@@ -1,12 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Komputer Store</title>
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Komputer Store</h1>
+    </header>
+
+    <main>
+      <div class="container">
+        <div class="containerOfThree">
+          <section id="bank">
+            <h3>Joe Banker</h3>
+            <p>Balance:&emsp; <span id="showBalance"></span> Kr.</p>
+            <p id="showLoan">Loan:&emsp; <span id="loanAmount"></span> Kr.</p>
+            <div class="bottomContainer">
+              <button id="loanButton">Get loan</button>
+            </div>
+          </section>
+
+          <section id="work">
+            <h3>Work</h3>
+            <p>Pay:&emsp; <span id="showSalary"></span> Kr.</p>
+            <div class="bottomContainer">
+              <button id="repayLoanButton">Repay Loan</button>
+              <button id="bankButton" class="alignLeft">Bank</button>
+              <button id="workButton" class="alignRight">Work</button>
+            </div>
+          </section>
+
+          <section id="laptops">
+            <h3>Laptops</h3>
+            <select name="computersSelect" id="computersSelect"></select>
+            <h3 class="alignLeft">Features:</h3>
+            <div id="features" class="alignLeft"></div>
+          </section>
+        </div>
+
+        <section id="info">
+          <div class="containerOfThree">
+            <div id="computerImage">Image</div>
+            <div id="productInfo">Product</div>
+            <div id="buy">
+              <h3><span id="buyPrice"></span> NOK</h3>
+              <button id="buyButton">BUY NOW</button>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+
     <script src="app.js" type="text/javascript"></script>
-</body>
+  </body>
 </html>
