@@ -3,7 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![web](https://img.shields.io/static/v1?logo=icloud&message=Online&label=web&color=success)](https://komputer-store.netlify.app/)
 
-Komputer Store App is an assignment on JavaScript Fundamentals module of Noroff&#39;s Java Fullstack bootcamp
+Komputer Store App is an assignment on JavaScript Fundamentals module of Noroff&#39;s Java Fullstack bootcamp.
 
 ## Assignment:
 Create a Dynamic Webpage using "vanilla" JavaScript
@@ -23,7 +23,7 @@ The end result is not expected to be completely styled!
 - [Assignment](#Assignment)
 - [Install](#install)
 - [Usage](#usage)
-- [Development](#Development)
+- [My-Development](#My-Development)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -58,13 +58,13 @@ Live version: [komputer-store](https://komputer-store.netlify.app/)
 ### Other Features
 * You are able to loan money from the bank, but you might have to pay loan back.
 
-## Development
+## My-Development
 Guidance and requirements for the task from Noroff as well as teaching and learning materials. Wireframe example and API were also given. Code edited with Visual Studio Code and used JavaScript, HTML and CSS.
 
 
 ## Maintainers
 
-[@https://github.com/teemunasanen](https://github.com/https://github.com/teemunasanen)
+[@teemunasanen](https://github.com/https://github.com/teemunasanen)
 
 ## Contributing
 
